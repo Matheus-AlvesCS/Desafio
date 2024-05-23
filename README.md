@@ -7,3 +7,4 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <h3>Nesse desafio eu tive que criar do 0 uma página utilizando HTML e CSS, usando de base um layout do Figma</h3>
+<img src="https://github.com/Matheus-AlvesCS/Desafio/blob/master/assets/imagem.png?raw=true" />
